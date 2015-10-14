@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Volkhov:400,700italic);
+@import url(http://fonts.googleapis.com/css?family=Niconne);
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400italic);
+
+
+h3{
+	font-family: 'Volkhov', serif;
+}
+h1{
+	font-family: 'Volkhov', serif;
+}
+h2 , input , label{
+	font-family: 'Volkhov', serif;
+}
+cite {
+	margin: .2em 0;
+	display: block;
+	text-align: right;
+}
+
+
+p{
+	/* font-family: 'Niconne', cursive; */
+	font-family: 'Slabo 27px', serif;
+	font-size:20px;
+}
+
+#prod{
+	float:left;
+	margin-right:1em;
+}
+#logo{
+	/* float:left; */
+	height:2.5em;
+}
+
+.neha{
+background-color: white;
+color: black
+}
+#list{
+	height:50px;
+	
+}
+
+
